@@ -1,15 +1,18 @@
 {
   "name": "mobile_applet",
   "version": "1.0.0",
-  "description": "1Campus Mobile App integrade example.",
+  "description": "App WebView Demo",
   "main": "index.js",
   "scripts": {
     "start": "node ./index.mjs"
   },
-  "author": "",
+  "author": "ischool",
   "license": "ISC",
   "dependencies": {
     "koa": "^2.13.4",
     "node-fetch": "^3.2.10"
+  },
+  "repository": {
+    "url": "https://github.com/ischoolinc/app_webview_demo"
   }
 }
