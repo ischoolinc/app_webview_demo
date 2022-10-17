@@ -21,3 +21,6 @@ Server 端線上展示網址：https://appwebview-service-4twhrljvua-de.a.run.ap
 - 執行「npm start」啟動 node server。
 - 打開「http://localhost:3000」並傳入必要參數。
   - 例：http://localhost:3000/?dsns=dev.sh_d&code=b2ddafd4-1825-474f-b390-8796bed4d790
+
+## App 實機測試流程
+- 待補充。
