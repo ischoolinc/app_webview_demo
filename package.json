@@ -4,11 +4,12 @@
   "description": "1Campus Mobile App integrade example.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./index.mjs"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "koa": "^2.13.4",
     "node-fetch": "^3.2.10"
   }
 }
