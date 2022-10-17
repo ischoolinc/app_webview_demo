@@ -4,7 +4,9 @@
   "description": "App WebView Demo",
   "main": "index.js",
   "scripts": {
-    "start": "node ./index.mjs"
+    "start": "node ./index.mjs",
+    "dev": "pm2 start ecosystem.config.js --only=appwebview_dev",
+    "submit": "gcloud builds submit --tag asia.gcr.io/ischool-compiler-800/appwebview-service"
   },
   "author": "ischool",
   "license": "ISC",
