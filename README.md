@@ -7,7 +7,7 @@ App WebView 整體概念說明文件：https://docs.google.com/document/d/1jpa59
 
 Server 端線上展示網址：https://appwebview-service-4twhrljvua-de.a.run.app/?dsns=dev.sh_d&code=b2ddafd4-1825-474f-b390-8796bed4d790
 
-## 開發環境前置需求
+## 展示環境前置需求
 - [NodeJS] 16
 
 [NodeJS]:https://nodejs.org/en/
