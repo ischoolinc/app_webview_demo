@@ -10,6 +10,10 @@
 
 [NodeJS]:https://nodejs.org/en/
 
+## 檔案結構說明
+- index.mjs 範例完整主程式。
+- Dockerfile、ecosystem.config.js、package.json 非本範例重點，可略過。
+
 ## 本機開發測試流程
 - 下載程式碼後，在目錄中執行「npm install」。
 - 執行「npm start」啟動 node server。
